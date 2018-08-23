@@ -1,0 +1,14 @@
+{
+    "name": "aroha/sudoku-solver",
+    "description": "Sudoku Solver",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Matej Hrnčiarik",
+            "email": "hrnciarik@aroha.sk"
+        }
+    ],
+    "require": {
+        "php" : "^5.6 || ^7.0"
+    }
+}
