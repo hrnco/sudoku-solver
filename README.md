@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-1. run: docker-compose up -d #need installed Docker and Docker-compose
+1. run: docker-compose up -d #nutne mat nainstalovany Docker
 2. check http://localhost:8000/
 
 ## Projekt prezentuje moje osobne zrucnosti
