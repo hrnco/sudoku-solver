@@ -6,9 +6,9 @@
  * Time: 14:39
  */
 
-namespace Aroha\SudokuSolver\Lib\Loader;
+namespace Aroha\SudokuSolver\Loader;
 
-use Aroha\SudokuSolver\Lib\Data\Sudoku;
+use Aroha\SudokuSolver\Data\Sudoku;
 
 class SudokuLoaderCsv {
 

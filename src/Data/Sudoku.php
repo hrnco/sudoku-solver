@@ -6,7 +6,7 @@
  * Time: 13:51
  */
 
-namespace Aroha\SudokuSolver\Lib\Data;
+namespace Aroha\SudokuSolver\Data;
 
 
 class Sudoku {
@@ -71,7 +71,7 @@ class Sudoku {
     }
 
     public function createClone() {
-        $sudokuLoader = new \Aroha\SudokuSolver\Lib\Loader\SudokuLoader();
+        $sudokuLoader = new \Aroha\SudokuSolver\Loader\SudokuLoader();
         return $sudokuLoader->createSudokuFromArray($this->toArray());
     }
 

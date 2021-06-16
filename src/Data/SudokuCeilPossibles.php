@@ -6,7 +6,7 @@
  * Time: 22:11
  */
 
-namespace Aroha\SudokuSolver\Lib\Data;
+namespace Aroha\SudokuSolver\Data;
 
 
 class SudokuCeilPossibles

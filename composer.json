@@ -1,14 +1,17 @@
 {
-    "name": "aroha/sudoku-solver",
-    "description": "Sudoku Solver",
-    "version": "1.0.0",
+    "name": "aroha/sudoku-solver-project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Aroha\\SudokuSolver\\": "src/"
+        }
+    },
     "authors": [
         {
-            "name": "Matej Hrnčiarik",
+            "name": "Matej Hrnciarik",
             "email": "hrnciarik@aroha.sk"
         }
     ],
-    "require": {
-        "php" : "^5.6 || ^7.0"
-    }
+    "minimum-stability": "dev",
+    "require": {}
 }

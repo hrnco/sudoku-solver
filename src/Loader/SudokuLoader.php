@@ -6,13 +6,13 @@
  * Time: 14:39
  */
 
-namespace Aroha\SudokuSolver\Lib\Loader;
+namespace Aroha\SudokuSolver\Loader;
 
-use Aroha\SudokuSolver\Lib\Data\Sudoku;
-use Aroha\SudokuSolver\Lib\Data\SudokuBlock;
-use Aroha\SudokuSolver\Lib\Data\SudokuCeil;
-use Aroha\SudokuSolver\Lib\Data\SudokuColumn;
-use Aroha\SudokuSolver\Lib\Data\SudokuRow;
+use Aroha\SudokuSolver\Data\Sudoku;
+use Aroha\SudokuSolver\Data\SudokuBlock;
+use Aroha\SudokuSolver\Data\SudokuCeil;
+use Aroha\SudokuSolver\Data\SudokuColumn;
+use Aroha\SudokuSolver\Data\SudokuRow;
 
 class SudokuLoader {
 

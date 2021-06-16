@@ -6,7 +6,7 @@
  * Time: 14:38
  */
 
-namespace Aroha\SudokuSolver\Lib\Data;
+namespace Aroha\SudokuSolver\Data;
 
 
 class SudokuBlock extends AbstractSudokuBlock {
