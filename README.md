@@ -7,8 +7,9 @@
 - znalost logickeho uvazovania (riesenie sudoku)
 - schopnost nasadit docker v praxi
 - TODO (schopnosti mam, ale chyba cas..): schopnost vyuzivat composer na vyssej urovni - vytvorenie a pouzitie vlastneho balika (kvazi privatneho korporatneho)
-- TODO (schopnosti mam, ale chyba cas..): DevOps zrucnosti
-  - pouzivanie dockera
-  - automaticke unit testy po push v gite
-  - automaticke funkcne test po push v gite
-  - automaticky nasadzovaci skript po push v gite
+- DevOps zrucnosti
+  - TODO (schopnosti mam, ale chyba cas..) automaticke unit testy po push v gite
+  - TODO (schopnosti mam, ale chyba cas..) automaticke funkcne test po push v gite
+  - TODO (schopnosti mam, ale chyba cas..) automaticky nasadzovaci skript po push v gite
+  - vyuzitie dockera vytvorenim vlastneho BUILD, kvoli osobytnym potrebam projektu ako je vyuzitie OCR softwaru a composer, funkcneho testovania
+
