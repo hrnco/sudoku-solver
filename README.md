@@ -6,7 +6,7 @@
 ## Ucelom projektu je prezentovat moje zrucnosti a vedomosti + celkom ma to bavi ;-)
 - znalost logickeho uvazovania (riesenie sudoku)
 - schopnost nasadit docker v praxi
-- TODO (schopnosti mam, ale chyba cas..): schopnost vyuzivat composer na vyssej urovni - vytvorenie a pouzitie vlastneho balika (kvazi privatneho korporatneho)
+- TODO (schopnosti mam, ale chyba cas..): schopnost vyuzivat composer na vyssej urovni - vytvorenie a pouzitie vlastneho balika (kvazi privatneho korporatneho) - velmi vyhodny sposob vyvoja pre mnoho projektov, ktore zdielaju casti spolocneho kodu
 - DevOps zrucnosti
   - TODO (schopnosti mam, ale chyba cas..) automaticke unit testy po push v gite
   - TODO (schopnosti mam, ale chyba cas..) automaticke funkcne test po push v gite
