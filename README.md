@@ -3,7 +3,7 @@
 1. run: docker-compose up -d #nutne mat nainstalovany Docker
 2. check http://localhost:8000/
 
-## Ucelom projektu je prezentovat moje zrucnosti a vedomosti
+## Ucelom projektu je prezentovat moje zrucnosti a vedomosti ( a hlavne ma to bavi ;-) )
 - znalost logickeho uvazovania (riesenie sudoku)
 - schopnost nasadit docker v praxi
 - TODO (schopnosti mam, ale chyba cas..): schopnost vyuzivat composer na vyssej urovni - vytvorenie a pouzitie vlastneho balika (kvazi privatneho korporatneho)
